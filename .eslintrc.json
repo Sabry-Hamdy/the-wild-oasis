@@ -1,0 +1,9 @@
+{
+  "extends": ["react-app", "@cspell"],
+  "rules": {
+    "@cspell/spellchecker": [
+      "warn",
+      { "checkComments": true, "autoFix": true, "numSuggestions": 8 }
+    ]
+  }
+}
