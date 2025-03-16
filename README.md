@@ -11,4 +11,4 @@
 A one of the two final projects of Jonas Schmedtmann's Ultimate react course,
 built with react + supabase
 
-**live**: [here](https://the-wild-oasis-bay-nine.vercel.app" target="_blank)
+**live**: [here](https://the-wild-oasis-bay-nine.vercel.app)
